@@ -15,9 +15,10 @@
 
 
 ### 全集pdf免费获取
-国内夸克网盘：https://pan.quark.cn/s/5a4fc36266d4 （已被河蟹😭)
-海外备用地址1: https://rg.to/file/b0d5e33fdb9b31fa9fc9edbb057b3abd/
-海外备用地址2: https://drive.google.com/file/d/1xnywtJpDYv622BORyovVeUeeJFW4rXcT/view?usp=sharing 
+- 国内夸克网盘：https://pan.quark.cn/s/5a4fc36266d4   （已被河蟹😭) 
+- 国内迅雷盘：https://pan.xunlei.com/s/VO8a8cNYX8MwyiCHwHCxk8Z-A1?pwd=n5jg
+- 海外备用地址1: https://rg.to/file/b0d5e33fdb9b31fa9fc9edbb057b3abd/
+- 海外备用地址2: https://drive.google.com/file/d/1xnywtJpDYv622BORyovVeUeeJFW4rXcT/view?usp=sharing 
 
 ## 单篇pdf格式下载
 如果你只想下载单篇pdf，可以去[资料吧](https://ziliaoba.github.io)，右上角搜索关键字"天涯"，逐个下载。
